@@ -1,7 +1,7 @@
 // Constant Data - Being used all over the backend!
 module.exports = {
-    emailSuffix     	: 'mnit.ac.in',
-    programs            : ['UG','M.Tech.','M.Plan.','M.Sc.','PhD','MBA'],
+    emailSuffix     	: 'aith.ac.in',
+    programs            : ['UG','B.Tech.'],
     placementTeamRoles  : ['spc', 'faculty-coordinator'],
     coordinatorData     : {
         degree          : 'N/A',
@@ -9,10 +9,10 @@ module.exports = {
         program         : 'N/A',
         cgpa            : 'N/A',
         alternate_email : 'N/A',
-        address         : 'MNIT Jaipur',
-        city            : 'Jaipur',
-        state           : 'Rajasthan',
-        post_code       : '302017',
+        address         : 'AITH Kanpur',
+        city            : 'Kanpur',
+        state           : 'Uttar Pradesh',
+        post_code       : '208024',
         country         : 'India',
         linkedln_link   : 'N/A',
         matric_marks    : 'N/A',
