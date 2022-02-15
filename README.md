@@ -4,7 +4,7 @@
 Training & Placement Cell, AITH Kanpur aims at building a strong interface between industry and the University for training and placement of students. To make recruitment session smoother for students, Training & Placement Cell has a web portal for handling the placement registration for companies visiting our campus.
 
 ## Motivation :
-The motivation for doing this project was primarily to make recruitment session smoother for students & make the complete Placement Process paperless at AITH Kanpur. This is my small contribution, as an MNITian, to the betterment of the system of Placements in AITH Knapur.
+The motivation for doing this project was primarily to make recruitment session smoother for students & make the complete Placement Process paperless at AITH Kanpur. This is my small contribution, as an AITHian, to the betterment of the system of Placements in AITH Knapur.
 
 I am deeply thankful to T&P Authorities for approving my project to use as **Official Placement Portal - AITH Kanpur**.
 
